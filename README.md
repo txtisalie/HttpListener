@@ -41,12 +41,12 @@ Since packet sniffing requires access to the network card, you must run the scri
 ### Linux / macOS
 Run with `sudo`:
 
-    sudo python main.py
+    sudo python http.py
 
 ### Windows
 Open your Command Prompt (CMD) or PowerShell as **Administrator** and run:
 
-    python main.py
+    python http.py
 
 ## Limitations
 
